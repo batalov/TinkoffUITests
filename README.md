@@ -1,7 +1,7 @@
 # UI Tests With Codeceptjs For Tinkoff Website
 
 ## Dependency Installation
-    npm i 
+    npm install codeceptjs webdriverio
 
 ## Project Structure
     components: directory with small reusable page components (like header, footer etc.)
